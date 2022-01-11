@@ -1,7 +1,7 @@
 [
   {
     "name": "F搜",
-    "url": "https://fsou.cc/",
+    "url": "https://fsou.cc/search?q=",
     "icon": "https://cdn.fsou.cc/static/assets/pwa_f_logo_144.png",
     "placeholder": "F搜索",
     "blocked": false,
