@@ -14,18 +14,24 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/yjczhou/nav@image/nav-1641874023722-1.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "url": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
       "url": "",
       "width": null,
       "height": null
     }
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
-  "simThemeHeight": 351,
+  "simThemeHeight": 350,
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/yjczhou/nav@image/nav-1641874247149-1.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/yjczhou/nav@image/nav-1641893040843-21(1).jpg",
       "url": "",
       "width": null,
       "height": null
