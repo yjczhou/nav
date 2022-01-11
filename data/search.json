@@ -1,5 +1,13 @@
 [
   {
+    "name": "F搜",
+    "url": "https://fsou.cc/",
+    "icon": "https://cdn.fsou.cc/static/assets/pwa_f_logo_144.png",
+    "placeholder": "F搜索",
+    "blocked": false,
+    "isInner": false
+  },
+  {
     "name": "站内",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
     "placeholder": "站内搜索",
