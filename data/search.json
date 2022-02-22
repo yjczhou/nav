@@ -1,8 +1,8 @@
 [
   {
     "name": "F搜",
-    "url": "https://fsou.cc/search?q=",
-    "icon": "https://cdn.fsou.cc/static/assets/pwa_f_logo_144.png",
+    "url": "https://fsofso.com/search?q=",
+    "icon": "https://cdn.fsofso.com/static/assets/favicon.ico",
     "placeholder": "F搜索",
     "blocked": false,
     "isInner": false
